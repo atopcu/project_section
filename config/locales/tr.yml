@@ -1,0 +1,13 @@
+# 
+tr:
+  permission_select_project_section: Proje grubunu seçin
+  label_project_section_plural: Proje grupları
+  label_project_section: Proje grubu
+  label_project_section_new: Yeni proje grubu
+  label_parent_project_section: Üst grup
+  label_unsectioned: Gruplanmamış
+  label_all_sections: Tüm gruplar
+
+  label_sections_for_all: tüm gruplar için
+  label_sections_selected: sadece bu gruplar için
+  
